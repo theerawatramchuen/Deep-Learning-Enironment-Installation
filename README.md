@@ -10,3 +10,4 @@ Open Anaconda Prompt Command Line window <br/>
 (dl) C:\Users\pc>conda install -c conda-forge scikit-learn <br/>
 (dl) C:\Users\pc>conda install pandas <br/>
 (dl) C:\Users\pc>conda install spyder <br/>
+(dl) C:\Users\pc>conda install seaborn <br/>
