@@ -9,7 +9,7 @@ Open Anaconda Prompt Command Line window <br/>
 (dl) C:\Users\pc>conda install tensorflow==1.14 ## For NVIDIA GPU change "tensorflow" to "tensorflow-gpu" ## <br/>
 (dl) C:\Users\pc>conda install -c conda-forge scikit-learn <br/>
 (dl) C:\Users\pc>conda install pandas <br/>
-(dl) C:\Users\pc>conda install spyder <br/>
+(dl) C:\Users\pc>conda install spyder <br/> ## conda install -c anaconda jupyter
 (dl) C:\Users\pc>conda install seaborn <br/>
 ## GPU Status for Ubuntu
 $ pip install gpustat   ## https://pypi.org/project/gpustat/
