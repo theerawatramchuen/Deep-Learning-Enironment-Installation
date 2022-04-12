@@ -15,3 +15,5 @@ Open Anaconda Prompt Command Line window <br/>
 $ pip install gpustat   ## https://pypi.org/project/gpustat/
 ## Ubuntu 20.04 install CUDA 11.1, cuDNN 8.0.5, Tensorflow 2.4
 https://pinkwink.kr/1339
+## Ubuntu 20.04 nVidia driver Installation
+https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux
