@@ -13,3 +13,5 @@ Open Anaconda Prompt Command Line window <br/>
 (dl) C:\Users\pc>conda install seaborn <br/>
 ## GPU Status for Ubuntu
 $ pip install gpustat   ## https://pypi.org/project/gpustat/
+## Ubuntu 20.04 install CUDA 11.1, cuDNN 8.0.5, Tensorflow 2.4
+https://pinkwink.kr/1339
