@@ -19,6 +19,6 @@ https://pinkwink.kr/1339
 https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux
 ## How to Custom Dataset Yolo4 Installation
 https://github.com/anil-bit/yolov4-darkflow-ubuntu-customdataset
-## Clean Installing CUDA 10.1 on Ubuntu 20.04 </b>
-Install CUDA 10.1 packages, including the CuDNN library </b>
+## Clean Installing CUDA 10.1 on Ubuntu 20.04 
+Install CUDA 10.1 packages, including the CuDNN library <br/>
 https://medium.com/@stephengregory_69986/installing-cuda-10-1-on-ubuntu-20-04-e562a5e724a0
