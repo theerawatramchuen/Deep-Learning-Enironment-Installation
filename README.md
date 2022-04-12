@@ -11,6 +11,7 @@ Open Anaconda Prompt Command Line window <br/>
 (dl) C:\Users\pc>conda install pandas <br/>
 (dl) C:\Users\pc>conda install spyder <br/> ## conda install -c anaconda jupyter
 (dl) C:\Users\pc>conda install seaborn <br/>
+# Ubuntu 20.04
 ## GPU Status for Ubuntu
 $ pip install gpustat   ## https://pypi.org/project/gpustat/
 ## Ubuntu 20.04 install CUDA 11.1, cuDNN 8.0.5, Tensorflow 2.4
@@ -22,3 +23,5 @@ https://github.com/anil-bit/yolov4-darkflow-ubuntu-customdataset
 ## Clean Installing CUDA 10.1 on Ubuntu 20.04 
 Install CUDA 10.1 packages, including the CuDNN library <br/>
 https://medium.com/@stephengregory_69986/installing-cuda-10-1-on-ubuntu-20-04-e562a5e724a0
+## Install Opencv from Source
+https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/
