@@ -25,3 +25,5 @@ Install CUDA 10.1 packages, including the CuDNN library <br/>
 https://medium.com/@stephengregory_69986/installing-cuda-10-1-on-ubuntu-20-04-e562a5e724a0
 ## Install Opencv from Source
 https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/
+## YOLOv4-darknet installation and usage on your system (Windows & Linux)
+https://techzizou.com/yolo-installation-on-windows-and-linux/#install_linux
