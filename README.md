@@ -12,6 +12,8 @@ Open Anaconda Prompt Command Line window <br/>
 (dl) C:\Users\pc>conda install spyder <br/> ## conda install -c anaconda jupyter
 (dl) C:\Users\pc>conda install seaborn <br/>
 # Ubuntu 20.04
+## Clean Installing CUDA 11.2 on Ubuntu 20.04
+https://gist.github.com/hiraksarkar/b4aff12ccb0f1f1a7cb301f365892f6a
 ## GPU Status for Ubuntu
 $ pip install gpustat   ## https://pypi.org/project/gpustat/
 ## How to Custom Dataset Yolo4 Installation
