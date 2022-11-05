@@ -14,6 +14,7 @@ Open Anaconda Prompt Command Line window <br/>
 # Ubuntu 20.04
 ## Clean Installing CUDA 11.2 on Ubuntu 20.04
 https://gist.github.com/hiraksarkar/b4aff12ccb0f1f1a7cb301f365892f6a
+https://towardsdatascience.com/installing-multiple-cuda-cudnn-versions-in-ubuntu-fcb6aa5194e2
 ## GPU Status for Ubuntu
 $ pip install gpustat   ## https://pypi.org/project/gpustat/
 ## How to Custom Dataset Yolo4 Installation
